@@ -212,14 +212,17 @@ Inscription → OTP Email → Vérification → JWT émis → Zustand + Cookie
 ---
 
 ## 📸 Captures d'écran
-
-> *(Ajouter des captures du tableau de bord, formulaire diagnostic, back-office admin)*
-
+### Partie Prospect et client
+![client](https://i.postimg.cc/TPLcMN9m/Capture-d-ecran-(207).png)
+### Tableau de bord
+![Dashboard](https://i.postimg.cc/28ShNXjk/Capture-d-ecran-(208).png)
+### Formulaire diagnostic
+![Formulaire](https://i.postimg.cc/N065H1GR/Capture-d-ecran-(213).png)
 ---
 
 ## 👨‍💻 Développé par
 
-**[Votre Nom]** — Développeur Full-Stack  
+**[PHANUEL ARSÈNE ]** — Développeur Full-Stack  
 📧 [votre@email.com](mailto:phanuel.alibia@gmail.com)  
 🔗 [linkedin.com/in/votre-profil](https://www.linkedin.com/in/phanuel-tsopze-8a33a52a4/)  
 🌐 [votre-portfolio.com](https://phanuel-alibia.com/)
